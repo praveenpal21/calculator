@@ -31,13 +31,13 @@ A simple and stylish calculator built using **HTML**, **CSS**, and **JavaScript*
 3. Use the calculator by clicking the buttons.
 
 ## 📁 File Structure
-
+```bash
 calculator-project/
 ├── index.html # Main HTML file
 ├── style.css # CSS styling
 ├── script.js # JavaScript functionality
 
-
+```
 ## ⚠️ Note
 
 This calculator uses the built-in `eval()` function to compute expressions. For production-level apps, it is recommended to avoid `eval()` due to security risks.
