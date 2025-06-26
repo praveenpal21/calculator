@@ -16,7 +16,7 @@ A simple and stylish calculator built using **HTML**, **CSS**, and **JavaScript*
 
 ## 🖼️ Preview
 
-![Calculator UI](screenshot.png) <!-- You can add a screenshot of the calculator UI here -->
+![Calculator UI](screenshot.png) 
 
 ## 💻 Technologies Used
 
